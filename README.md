@@ -1,6 +1,4 @@
 # inserted-code-for-shopify
 
 
-$( "#AccessibleNav ul  li:nth-child(3)" ).after( $( "<li class='site-nav__item'></li>" ) );
-
-  $( "#AccessibleNav ul  li:nth-child(4)" ).append( $( ".nav-containers.nav-container-logo" ) );
+ 
